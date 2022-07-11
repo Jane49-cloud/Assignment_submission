@@ -1,0 +1,47 @@
+
+form{
+    width: 600px;
+    background-color:#F3F3F3;
+    height: 600px;
+    margin: auto;
+
+}
+.form-items{
+    width: 55%;
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+input{
+   height: 34px;
+   position: relative;
+   bottom:5px;
+   width: 250px;
+   border: 1px solid grey;
+   border-radius: 5px;
+}
+label{
+    margin-top: 0;
+    position: relative;
+    top: 5px;
+}
+button{
+    background: blue;
+    width: 90px;
+    height: 28px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
+button:hover{
+    background-color: #707be6;
+}
+
+#form2{
+    height: 250px; 
+}
+#form2  input{
+position: relative;
+bottom: 0;
+}
